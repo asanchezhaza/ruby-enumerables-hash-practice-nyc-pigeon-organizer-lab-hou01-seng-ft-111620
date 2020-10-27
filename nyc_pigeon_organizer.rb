@@ -17,5 +17,5 @@ def nyc_pigeon_organizer(data)
 end 
 end
   
-  # write your code here!
+  # i was not able to come up with my own solution on this one i will come back to it and try a different solution
 end
